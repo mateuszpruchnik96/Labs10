@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ba3e8ccb-6752-40a8-9aa7-670ddd65cd0b" name="Default Changelist" comment="exercises1-9">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise08.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise09.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labs10/pl/wsiz/podyplomowe/io/Exercise09.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="233ee4cb9c243450a322b17cbd4719afb5846e42" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -50,26 +63,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pl/wsiz/podyplomowe/io/part1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Exercise09">
-    <configuration name="Exercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.wsiz.podyplomowe.io.Exercise07" />
-      <module name="Labs10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.wsiz.podyplomowe.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java projekty\Labs10\src\pl\wsiz\podyplomowe\io\part1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Exercise08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.wsiz.podyplomowe.io.Exercise08" />
       <module name="Labs10" />
@@ -122,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.wsiz.podyplomowe.io.part2.Program" />
+      <module name="Labs10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.wsiz.podyplomowe.io.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Exercise09" />
         <item itemvalue="Application.ProductTester" />
         <item itemvalue="Application.Exercise10" />
-        <item itemvalue="Application.Exercise09" />
         <item itemvalue="Application.Exercise08" />
-        <item itemvalue="Application.Exercise07" />
       </list>
     </recent_temporary>
   </component>
@@ -136,12 +154,26 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba3e8ccb-6752-40a8-9aa7-670ddd65cd0b" name="Default Changelist" comment="" />
-      <changelist id="" name="gitignire" comment="" />
       <created>1606554034371</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606554034371</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercises1-9">
+      <created>1610272666085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610272666086</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercises1-9">
+      <created>1610272885323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610272885323</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +182,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -161,14 +194,21 @@
                   </entry>
                 </map>
               </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="exercises1-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercises1-9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1609747100669">
@@ -179,10 +219,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606556751386" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1610272177496">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610277518698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610272177496" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610277518698" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1610278013324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610278013324" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1610271671095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -191,22 +235,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610269058688" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610272589256">
+    <state x="623" y="313" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1610272982622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610272589256" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610272589256">
+    <state x="623" y="313" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1610272982622" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1611391111682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610272589256" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610272589255">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611391111682" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1611391111681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610272589255" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610272589256">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611391111681" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1611391111681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610272589256" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611391111681" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1611391111681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611391111681" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1607863390834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -239,10 +287,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="599" y="282" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1610271457624" />
+    <state x="531" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1610272761590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="146" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610272761590" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610267896729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1610267896729" />
+    <state x="550" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1610273143643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="125" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1610273143643" />
     <state x="209" y="33" key="new project wizard" timestamp="1609590133954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
